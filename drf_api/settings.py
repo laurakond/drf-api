@@ -41,6 +41,9 @@ ALLOWED_HOSTS = [
     '8000-laurakond-drfapi-4hrfoij2t7d.ws.codeinstitute-ide.net',
     ]
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://8000-laurakond-drfapi-4hrfoij2t7d.ws.codeinstitute-ide.net'
+    ]
 
 # Application definition
 
