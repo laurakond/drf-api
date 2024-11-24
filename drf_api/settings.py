@@ -69,7 +69,6 @@ ALLOWED_HOSTS = [
     '8000-laurakond-drfapi-4hrfoij2t7d.ws.codeinstitute-ide.net',
     '8000-laurakond-drfapi-taq1ruy5aei.ws.codeinstitute-ide.net',
     'localhost',
-    'https://moments-lk-4fd4ad1a172b.herokuapp.com',
     os.environ.get('ALLOWED_HOST'),
     ]
 
